@@ -1,0 +1,58 @@
+#senaclogouni {
+    color: rgb(0, 75, 181);
+}
+
+h1 {
+    color: rgb(247, 148, 30);
+    font-style: italic;
+    font-family: 'Raleway', sans-serif;
+    font-variant-caps: all-small-caps;
+}
+
+h3 {
+    color: rgb(0, 75, 181);
+    font-style: italic;
+    font-family: 'Raleway', sans-serif;
+    font-variant-caps: all-small-caps;
+}
+
+p, ul, a, td {
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    font-family: 'Raleway', sans-serif;
+    font-variant-caps: all-small-caps;
+}
+
+th {
+    color: rgb(0, 75, 181);
+    font-style: italic;
+    font-family: 'Raleway', sans-serif;
+    font-variant-caps: all-small-caps;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#capital {
+    color: rgb(247, 148, 30);
+    font-style: italic;
+    font-family: 'Raleway', sans-serif;
+    font-variant-caps: all-small-caps;
+}
+
+#interior{
+    color: rgb(247, 148, 30);
+    font-style: italic;
+    font-family: 'Raleway', sans-serif;
+    font-variant-caps: all-small-caps;
+}
+
+table tr td {
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    padding: 5px;
+    border-radius: 10px;
+}
